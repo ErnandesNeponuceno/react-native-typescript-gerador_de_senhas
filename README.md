@@ -97,4 +97,5 @@ export default function generatePass(){
 
 ## 📌 Créditos
 
-Projeto desenvolvido para aprendizado e demonstração de conceitos em **React Native**.
+- **Videoaula:** ✨Sequenciador de senhas do Batman com React Native:
+  [DIO](https://web.dio.me/track/formacao-react-native-developer)
